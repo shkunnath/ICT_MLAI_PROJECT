@@ -1,1 +1,1 @@
-A chatbot based recommendation system that suggests movies and books.
+READFLIX: A chatbot that suggests movies and books.
